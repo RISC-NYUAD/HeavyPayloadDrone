@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>turtlebot3_ne</name>
+  <version>1.2.0</version>
+  <description> TurtleBot3 Klancar trajectory following implementation </description>
+  <license>BSD</license>
+  <author email="nikolaos.evangeliou@nyu.edu">Nikolaos Evangeliou</author>
+  <maintainer email="ne34@nyu.edu">Nikolaos Evangeliou</maintainer>
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>roscpp</depend>
+  <depend>sensor_msgs</depend>
+  <depend>turtlebot3_msgs</depend>
+  <depend>tf</depend>
+  <!--<depend>tf_conversions</depend>-->
+  <exec_depend>turtlebot3_bringup</exec_depend>
+</package>

@@ -1,0 +1,8 @@
+prefix=/home/rn1/projects/vulcan_uav/devel
+
+Name: vrpn_client_gapter
+Description: Description of vrpn_client_gapter
+Version: 0.0.1
+Cflags: -I/home/rn1/projects/vulcan_uav/devel/include
+Libs: -L/home/rn1/projects/vulcan_uav/devel/lib 
+Requires: roscpp rospy std_msgs message_runtime

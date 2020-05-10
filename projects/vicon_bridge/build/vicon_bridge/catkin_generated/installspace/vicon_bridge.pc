@@ -1,0 +1,8 @@
+prefix=/home/rn1/projects/vicon_bridge/install
+
+Name: vicon_bridge
+Description: Description of vicon_bridge
+Version: 1.0.1
+Cflags: -I/home/rn1/projects/vicon_bridge/install/include
+Libs: -L/home/rn1/projects/vicon_bridge/install/lib 
+Requires: dynamic_reconfigure geometry_msgs message_runtime roscpp

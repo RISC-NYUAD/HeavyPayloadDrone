@@ -1,0 +1,2 @@
+vrpn_client_gapter:vulcan_mavros:vulcan_tracker
+-DCATKIN_DEVEL_PREFIX=/home/rn1/projects/vulcan_uav/devel -DCMAKE_INSTALL_PREFIX=/home/rn1/projects/vulcan_uav/install -G Unix Makefiles

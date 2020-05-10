@@ -1,0 +1,8 @@
+prefix=/home/rn1/projects/kinova-ros/install
+
+Name: ne_kinova_demo
+Description: Description of ne_kinova_demo
+Version: 0.0.1
+Cflags: 
+Libs: -L/home/rn1/projects/kinova-ros/install/lib 
+Requires: kinova_driver kinova_msgs roscpp std_msgs geometry_msgs tf2_geometry_msgs tf2_ros tf

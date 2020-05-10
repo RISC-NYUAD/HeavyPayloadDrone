@@ -1,0 +1,2 @@
+vicon_bridge
+-DCATKIN_DEVEL_PREFIX=/home/rn1/projects/vicon_bridge/devel -DCMAKE_INSTALL_PREFIX=/home/rn1/projects/vicon_bridge/install -G Unix Makefiles

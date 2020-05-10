@@ -1,0 +1,8 @@
+prefix=/home/rn1/projects/kinova-ros/install
+
+Name: m1n6s300_ikfast
+Description: Description of m1n6s300_ikfast
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/rn1/projects/kinova-ros/install/lib 
+Requires: moveit_core pluginlib roscpp tf_conversions

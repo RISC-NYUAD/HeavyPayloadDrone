@@ -1,0 +1,8 @@
+prefix=/home/rn1/projects/turtlebot/install
+
+Name: turtlebot3_msgs
+Description: Description of turtlebot3_msgs
+Version: 1.0.0
+Cflags: -I/home/rn1/projects/turtlebot/install/include
+Libs: -L/home/rn1/projects/turtlebot/install/lib 
+Requires: std_msgs message_runtime
